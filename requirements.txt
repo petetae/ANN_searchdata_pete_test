@@ -1,5 +1,4 @@
 alabaster==0.7.12
-anaconda-client==1.7.2
 anaconda-navigator==1.9.7
 anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1621348054992/work
 anyio @ file:///opt/concourse/worker/volumes/live/4ff95164-2ca6-4efb-5c02-5afee907620d/volume/anyio_1617783322708/work/dist
